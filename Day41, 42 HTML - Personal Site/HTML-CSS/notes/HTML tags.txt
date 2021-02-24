@@ -1,0 +1,45 @@
+HTML Elements = The HTML Tags
+HTML Attributes = The peice of data that gives more info to the Elements
+
+Heading Tags
+    - <h1></h1>     Biggest Possible heading
+    - <h2></h2>     Sub-Heading
+    - <h3></h3>     
+    - <h4></h4>
+    - <h5></h5>
+    - <h6></h6>
+
+Self-Closing tag
+<br> - This is a line break tag which adds a newline
+<hr> - Adds a horizontal line(you can specify the size Attributes for thicker or thinner)
+
+BOILERPLATE
+    <!Doctype html> = this is the HTML 5 version
+    <html> This part tells the browser that whatever in this tag is HTML
+        <head>THis is the part related to heading</head>
+        <body>The most important tag the body of our website</body>
+    </html>
+
+HTML Tables
+<table>
+    <thead>    --Table Head--
+        <th>Year</th>   --Table Heading--
+        <th>Work</th>   --Table Heading--
+    </thead>
+    <tbody>     --Table Body--
+        <tr>    --Table Row--
+            <td>2019-2020</td>    --Table Data for row1--
+            <td>self-taught Python Developer</td>    --Table Data for row1--
+        </tr>
+        <tr>
+            <td>2020-2021</td>
+            <td>Learning Advanced Python</td>
+        </tr>
+    </tbody>
+    <tfooter>
+    </tfooter>
+</table>
+
+HTML Forms
+    
+

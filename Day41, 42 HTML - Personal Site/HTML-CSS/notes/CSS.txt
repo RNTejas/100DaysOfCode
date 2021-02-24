@@ -1,0 +1,7 @@
+Inline CSS is a CSS written in the HTML tag 
+<body style="background-color: red;">
+    ...
+</body>
+
+Externak CSS the external file with .css extension
+

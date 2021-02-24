@@ -1,0 +1,8 @@
+There are other types of functions than get() in REQUESTS like:
+    requests.post()
+    requests.put()
+    requests.delete()
+
+The Post function is little bit different that get 'cause in this we have to give data to the API and it will respond.
+The Put function is used to insert some data in the file and delete to delete some data
+

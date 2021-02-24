@@ -1,0 +1,7 @@
+HTML is a foundation of all websites
+HTML - HyperText Markup Language
+
+Documentation for HTML
+    - MDN Docs
+    - w3schools Docs
+    - devdocs.io Docs
