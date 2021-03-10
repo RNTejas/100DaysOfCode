@@ -1,9 +1,9 @@
 from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 import time
-chrome_driver_path = "C:\Development\chromedriver.exe"
-EMAIL = "wrajendranaik1771@gmail.com"
-PASSWORD = "tejwrajsej1771"
+chrome_driver_path = "Your Path"
+EMAIL = "Your Email"
+PASSWORD = "Your Password"
 
 
 class InternetSpeedTwitterBot():
